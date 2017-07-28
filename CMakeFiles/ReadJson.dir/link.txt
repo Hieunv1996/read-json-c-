@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/ReadJson.dir/main.cpp.o  -o ReadJson -rdynamic 

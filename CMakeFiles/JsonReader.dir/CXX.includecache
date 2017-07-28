@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hieunv/Desktop/readJson/JsonReader.cpp
+JsonReader.h
+/home/hieunv/Desktop/readJson/JsonReader.h
+
+/home/hieunv/Desktop/readJson/JsonReader.h
+iostream
+-
+fstream
+-
+json/json.h
+-
+string
+-
+
+/home/hieunv/Desktop/readJson/main.cpp
+JsonReader.h
+/home/hieunv/Desktop/readJson/JsonReader.h
+

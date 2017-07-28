@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/JsonReader.dir/main.cpp.o CMakeFiles/JsonReader.dir/JsonReader.cpp.o  -o JsonReader -rdynamic -I /usr/local/include -L /usr/local/lib -ljsoncpp 

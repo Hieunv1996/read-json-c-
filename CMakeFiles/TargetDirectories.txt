@@ -1,0 +1,3 @@
+/home/hieunv/Desktop/readJson/CMakeFiles/edit_cache.dir
+/home/hieunv/Desktop/readJson/CMakeFiles/rebuild_cache.dir
+/home/hieunv/Desktop/readJson/CMakeFiles/JsonReader.dir
